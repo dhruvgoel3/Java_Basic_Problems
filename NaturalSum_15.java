@@ -19,3 +19,4 @@ public class NaturalSum_15 {
     }
 
 }
+// easyy
